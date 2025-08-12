@@ -1,0 +1,8 @@
+public class Sum {
+	public static void main(String[]args){
+		int sum1 = 600;
+		int sum2 = 96;
+		int sum3 = sum1+sum2 ;
+		System.out.println(sum3);
+	}
+}
