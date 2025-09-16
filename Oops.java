@@ -16,6 +16,7 @@ class Subject {
         System.out.println(socal.socal);
         System.out.println(science.science);
         System.out.println(gk.gk);
-    }
+        }
+
 
 }
